@@ -64,6 +64,11 @@ DB_PASSWORD=your_password
 php artisan migrate
 ```
 
+8. Run seeding:
+```bash
+php artisan db:seed
+```
+
 ## Development
 
 Start Laravel server:
@@ -77,6 +82,12 @@ npm run dev
 ```
 
 Visit `http://localhost:8000`
+
+## Login cred
+
+email : test@example.com |
+password : password
+
 
 ## Commands
 
