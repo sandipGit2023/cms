@@ -87,10 +87,4 @@ Visit `http://localhost:8000`
 - `php artisan route:list` - List routes
 
 ## Project Demo
-
-Watch demonstration video:
-
-<video width="720" height="360" controls>
-  <source src="https://www.dropbox.com/scl/fi/nb64sf7ajccmvodp05q77/screen-capture-4.webm?raw=1" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+[Watch the demo video](https://www.dropbox.com/scl/fi/nb64sf7ajccmvodp05q77/screen-capture-4.webm?rlkey=3mpmkndsj4k8c3smi28otwp7o&st=oiqpqi7y&dl=0)
