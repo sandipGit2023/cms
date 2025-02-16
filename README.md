@@ -7,7 +7,6 @@
 - Vue 3 with Composition API
 - Inertia.js for seamless SPA
 - Vite for rapid development
-- Tailwind CSS
 - Authentication scaffolding
 - Form handling with validation
 - Basic CRUD examples
